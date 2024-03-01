@@ -1,6 +1,6 @@
 {
     "name": "qwik-react-toastify",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "qwik react toastify",
     "main": "./lib/index.qwik.mjs",
     "qwik": "./lib/index.qwik.mjs",
